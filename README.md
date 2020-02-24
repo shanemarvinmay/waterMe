@@ -83,3 +83,7 @@ This is going to be the water portion of healthyMe
     * [Google Charts](https://developers.google.com/chart)
 
 if you have issues with running react, put the command `unset HOST`
+
+## Donut stuff
+https://www.npmjs.com/package/react-google-charts
+https://github.com/toomuchdesign/react-minimal-pie-chart
